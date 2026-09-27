@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+
+# Temporary / Lock files
+~$*
+
+# Documentation
+*.docx
+Dokumentasi.txt
+
+# Dataset
+mitdb/
+
+# Deep Learning Models & Weights
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Cached preprocessed arrays / Large binary files
+*.npy
+*.npz
+*.pkl
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
