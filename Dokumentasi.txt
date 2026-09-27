@@ -1,0 +1,23 @@
+JUDUL
+- Comparative Analysis of ECG Preprocessing Methods for Deep Learning-Based Arrhythmia Detection Using CNN-LSTM
+
+PAPER
+- Patient-adaptive and clinically interpretable arrhythmia detection from ECG using lightweight hybrid deep learning 
+https://doi.org/10.1007/s13534-026-00615-7
+
+- Enhanced Arrhythmia Detection Employing CNNLSTM Hybrid Architectures and Advanced Signal
+Processing Techniques
+https://doi.org/10.1007/s44196-026-01510-w
+
+DATABASE
+- https://www.physionet.org/content/mitdb/1.0.0/
+
+TUJUAN
+- Membandingkan preprocessing dan melihat efeknya terhadap detection
+
+METHOD
+- Independent : ECG Preprocesssing Method (Diubah)
+
+- Dependent : Model Performance (Diukur)
+
+- Control : Dataset utama, Data split, Patient independence, ECG lead, Sampling rate, Segmentation, R-peak, Normalization, Optimizer, Learning rate, Batch size, Epoch, Loss function, Random seed, Class balancing
